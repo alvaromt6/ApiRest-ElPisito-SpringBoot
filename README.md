@@ -4,6 +4,10 @@ API REST desarrollada con Spring Boot para la gestión de una plataforma inmobil
 Permite la administración de inmuebles, usuarios, imágenes y favoritos, incorporando
 autenticación y autorización basada en roles.
 
+##Manual de uso/instalación de la API
+[Descargar la documentación](DocumentaciónApiRestElPisito.pdf)
+
+
 ## Descripción
 Este proyecto consiste en una API REST que simula el backend de una aplicación inmobiliaria.
 Los usuarios pueden registrarse, iniciar sesión, consultar inmuebles y gestionar una lista
